@@ -1,7 +1,7 @@
 {
-  "launcher_version": "1.0.5",
+  "launcher_version": "1.0.7",
   "patcher_version": "1.0.4",
-  "launcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/v1.0.5/launcher.zip",
+  "launcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/v1.0.7/launcher.zip",
   "patcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/v1.0.4/patcher.zip",
   "changelog": "Исправлен поиск пути"
 }
