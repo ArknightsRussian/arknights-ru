@@ -1,11 +1,12 @@
 {
-  "launcher_version": "1.3.7",
+  "launcher_version": "1.3.8",
   "patcher_version": "1.3.6",
-  "launcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/v1.3.7/launcher.zip",
+  "launcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/v1.3.8/launcher.zip",
   "patcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/v1.3.6/patcher.zip",
-  "changelog": "Запуск игры без русификатора; чейнджлог у версии; фикс автозапуска.",
+  "changelog": "Фикс удаления русификатора.",
   "history": [
+    {"version": "1.3.8", "changes": "Фикс удаления русификатора."},
     {"version": "1.3.7", "changes": "Запуск игры без русификатора; чейнджлог у версии; фикс автозапуска."},
-    {"version": "1.3.6", "changes": "Обновлён дизайн, приближающий к CN клиенту. До конца рабочий ручной поиск игры. Добавлен Uninstall лаунчера."}
+    {"version": "1.3.6", "changes": "Обновлён дизайн, приближающий к CN клиенту; до конца рабочий ручной поиск игры; Добавлен Uninstall лаунчера."}
   ]
 }
