@@ -13,11 +13,11 @@
   "patchers": {
     "ai": {
       "version": "1.0.0",
-      "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-ai-1.0.0/launcher_ru_<дата>.zip"
+      "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-ai-1.0.0/launcher_ru_20260909_1829.zip"
     },
     "hybrid": {
       "version": "1.0.0",
-      "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-hybrid-1.0.0/launcher_ru_<дата>.zip"
+      "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-hybrid-1.0.0/launcher_ru_20260909_1829.zip"
     }
   }
 }
