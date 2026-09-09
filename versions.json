@@ -1,7 +1,7 @@
 {
-  "launcher_version": "1.4.1",
+  "launcher_version": "1.4.2",
   "patcher_version": "1.0.0",
-  "launcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/v1.4.1/launcher_1.4.1.zip",
+  "launcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/v1.4.2/launcher_1.4.2.zip",
   "patcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-hybrid-1.0.0/launcher_ru_20260909_1829.zip",
   "changelog": "Установка мода нового формата: бэкап в Arknights_RU_backup, шрифт с кириллицей, вкладка Шрифты.",
   "history": [
