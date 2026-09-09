@@ -1,11 +1,11 @@
 {
   "launcher_version": "1.4.1",
-  "patcher_version": "1.3.6",
-  "launcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/v1.4.1/launcher.zip",
-  "patcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/v1.3.6/patcher.zip",
-  "changelog": "Выбор варианта перевода: полный ИИ или ручной+ИИ.",
+  "patcher_version": "1.0.0",
+  "launcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/v1.4.0/launcher.zip",
+  "patcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-hybrid-1.0.0/launcher_ru_<дата>.zip",
+  "changelog": "Установка мода нового формата: бэкап в Arknights_RU_backup, шрифт с кириллицей, вкладка Шрифты.",
   "history": [
-    {"version": "1.4.0", "changes": "Выбор варианта перевода: полный ИИ или ручной+ИИ."},
+    {"version": "1.4.1", "changes": "Установка мода нового формата: бэкап в Arknights_RU_backup; шрифт с кириллицей; вкладка Шрифты."}
     {"version": "1.3.8", "changes": "Фикс удаления русификатора."},
     {"version": "1.3.7", "changes": "Запуск игры без русификатора; чейнджлог у версии; фикс автозапуска."},
     {"version": "1.3.6", "changes": "Обновлён дизайн, приближающий к CN клиенту; до конца рабочий ручной поиск игры. Добавлен Uninstall лаунчера."}
@@ -13,11 +13,11 @@
   "patchers": {
     "ai": {
       "version": "1.0.0",
-      "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-1.0.0/patcher-ai-1.0.0.zip"
+      "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-ai-1.0.0/launcher_ru_<дата>.zip"
     },
     "hybrid": {
       "version": "1.0.0",
-      "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-1.0.0/patcher-hybrid-1.0.0.zip"
+      "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-hybrid-1.0.0/launcher_ru_<дата>.zip"
     }
   }
 }
