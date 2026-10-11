@@ -1,6 +1,6 @@
 {
   "launcher_version": "1.4.3",
-  "launcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/v1.4.3/launcher_1.4.3.zip",
+  "launcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/1.4.3/launcher_1.4.3.zip",
   "hook_runtime": {
     "version": "1.0.0",
     "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/hook-runtime-1.0.0/hook-runtime-1.0.0.zip"
