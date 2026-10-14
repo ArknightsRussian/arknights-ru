@@ -7,8 +7,8 @@
   },
   "patchers": {
     "ai": {
-      "version": "1.0.0",
-      "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-ai-1.0.0/hook-ru-ai-1.0.0.zip"
+      "version": "1.0.7",
+      "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-ai-1.0.7/hook-ru-ai-1.0.7.zip"
     },
     "hybrid": {
       "version": "1.0.0",
