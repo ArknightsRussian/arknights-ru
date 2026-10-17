@@ -38,8 +38,23 @@
 
 [ArknightsRU | Русификатор](https://t.me/ru_arknights)
 
-## Скриншоты перевода
+## Скриншоты продукта
 
-![Русифицированное меню]()
+<figure style="margin-bottom: 24px;">
+  <img width="1280" height="720" alt="Все оперативники и меню" src="https://github.com/user-attachments/assets/8d5fa3e0-094d-4ebf-bfb6-4f3bc0619f89" />
+  <figcaption><i>Все оперативники и меню</i></figcaption>
+</figure>
 
-![Русифицированный сюжет]()
+---
+
+<figure style="margin-bottom: 24px;">
+  <img width="1280" height="720" alt="Сюжетные диалоги" src="https://github.com/user-attachments/assets/efe46ccb-97f1-4e2e-ab76-d2958ee33620" />
+  <figcaption><i>Сюжетные диалоги</i></figcaption>
+</figure>
+
+---
+
+<figure style="margin-bottom: 24px;">
+  <img width="1150" height="645" alt="Собственный лаучнер" src="https://github.com/user-attachments/assets/26c8e58f-094a-4182-9e40-010de7fba00d" />
+  <figcaption><i>Собственный лаучнер</i></figcaption>
+</figure>
