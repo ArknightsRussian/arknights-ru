@@ -40,21 +40,97 @@
 
 ## Скриншоты продукта
 
-<figure style="margin-bottom: 24px;">
+<div align="center">
   <img width="1280" height="720" alt="Все оперативники и меню" src="https://github.com/user-attachments/assets/8d5fa3e0-094d-4ebf-bfb6-4f3bc0619f89" />
-  <figcaption><i>Все оперативники и меню</i></figcaption>
-</figure>
+  <br>
+  <i>Все оперативники и меню</i>
+</div>
 
 ---
 
-<figure style="margin-bottom: 24px;">
+<div align="center">
   <img width="1280" height="720" alt="Сюжетные диалоги" src="https://github.com/user-attachments/assets/efe46ccb-97f1-4e2e-ab76-d2958ee33620" />
-  <figcaption><i>Сюжетные диалоги</i></figcaption>
-</figure>
+  <br>
+  <i>Сюжетные диалоги</i>
+</div>
 
 ---
 
-<figure style="margin-bottom: 24px;">
-  <img width="1150" height="645" alt="Собственный лаучнер" src="https://github.com/user-attachments/assets/26c8e58f-094a-4182-9e40-010de7fba00d" />
-  <figcaption><i>Собственный лаучнер</i></figcaption>
-</figure>
+<div align="center">
+  <img width="1150" height="645" alt="Собственный лаунчер" src="https://github.com/user-attachments/assets/26c8e58f-094a-4182-9e40-010de7fba00d" />
+  <br>
+  <i>Собственный лаунчер</i>
+</div>
+
+<br>
+
+<details>
+<summary><b>🇬🇧 Click here to read in English / Нажмите, чтобы прочитать на английском</b></summary>
+
+<br>
+
+# Arknights Localization
+
+Hello, we are the team behind the Arknights Russian localization project. Here we will share news, updates, and translation progress.
+
+---
+
+## What we are and what we offer
+
+The translation will be provided in two versions:
+
+- **Manual translation only**: this will feature translations by [Bukhaya Chainaya Sova](https://vk.ru/tea_owl_mari_hoshi), [Saloejka](https://vk.ru/saloblog), [Gethris](https://www.youtube.com/@Gethris), and other community translators.
+- **Manual translation + AI**: same as above, but any uncovered text will be translated using AI. However, we assure you that it will undergo at least a glossary check and basic human proofreading; we won't feed you slop. As the project progresses, manual translations will naturally replace previous machine translations.
+- **A pleasant Russian font.**
+
+---
+
+## Our Current Stage
+
+- Manual translations are currently in the process of being ported. Some stories, operator files, and other texts are already in the game, and their number is constantly growing. Access to this version will be granted upon reaching a certain critical mass.
+- Machine translation currently covers almost all text in the game, but since it was not and will not be a priority, its quality is far from ideal right now. To be honest, it hasn't even undergone much checking yet. It's a version for the most impatient. However, as mentioned above, it will improve.
+
+To install the localization, please read our [installation guide](https://t.me/ru_arknights/12).
+
+Subscribe to our [channel/group](https://t.me/ru_arknights) to stay updated on all news and updates!
+
+---
+
+## How our translation works
+
+The translation is done in two ways:
+
+- Story texts are replaced locally (we directly replace the English text with Russian in the files). These files are unencrypted, so such manipulations are invisible to the game.
+- All text stored in encrypted files is translated using [BepInEx](https://github.com/BepInEx/BepInEx) and the [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) plugin. This was done because we consider it unwise and improper to completely disable the game's cryptography. The text replacement process occurs during the game's code execution, with no interaction with the game files. Since the Yostar client, unlike the Chinese clients, does not have an anti-cheat, such manipulations are also invisible to the game.
+
+> **However, do not be under any illusions**: the above does not negate the fact that this is a direct violation of the Terms of Service. And no one guarantees you 100% safety. We simply assess the risks as extremely minimal, provided, of course, that you do not 'flaunt' the Russian text in the game on official platforms, and provided that Yostar does not suddenly decide to track and ban players for such manipulations with the game.
+
+---
+
+[ArknightsRU | Localization](https://t.me/ru_arknights)
+
+## Product Screenshots
+
+<div align="center">
+  <img width="1280" height="720" alt="All Operators and Menu" src="https://github.com/user-attachments/assets/8d5fa3e0-094d-4ebf-bfb6-4f3bc0619f89" />
+  <br>
+  <i>All Operators and Menu</i>
+</div>
+
+---
+
+<div align="center">
+  <img width="1280" height="720" alt="Story Dialogues" src="https://github.com/user-attachments/assets/efe46ccb-97f1-4e2e-ab76-d2958ee33620" />
+  <br>
+  <i>Story Dialogues</i>
+</div>
+
+---
+
+<div align="center">
+  <img width="1150" height="645" alt="Custom Launcher" src="https://github.com/user-attachments/assets/26c8e58f-094a-4182-9e40-010de7fba00d" />
+  <br>
+  <i>Custom Launcher</i>
+</div>
+
+</details>
