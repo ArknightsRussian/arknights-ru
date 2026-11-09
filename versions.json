@@ -1,14 +1,14 @@
 {
-  "launcher_version": "1.5.0",
-  "launcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/1.5.0/launcher_1.5.0.zip",
+  "launcher_version": "1.5.1",
+  "launcher_url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/1.5.1/launcher_1.5.1.zip",
   "hook_runtime": {
     "version": "1.0.0",
     "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/hook-runtime-1.0.0/hook-runtime-1.0.0.zip"
   },
   "patchers": {
     "ai": {
-      "version": "1.0.34",
-      "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-ai-1.0.34/hook-ru-ai-1.0.34.zip"
+      "version": "1.0.36",
+      "url": "https://github.com/ArknightsRussian/arknights-ru/releases/download/patcher-ai-1.0.36/hook-ru-ai-1.0.36.zip"
     },
     "hybrid": {
       "version": "1.0.0",
